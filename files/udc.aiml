@@ -1,7 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <pattern>HELLO</pattern>
+    <template>Hello! How can I help you?</template>
+  </category>
+
+  <category>
+    <pattern>HI</pattern>
+    <template>Hello! Nice to meet you.</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS GITAM</pattern>
+    <template>GITAM is a reputed university offering engineering programs.</template>
+  </category>
+
+  <category>
+    <pattern>BYE</pattern>
+    <template>Goodbye! Have a great day.</template>
   </category>
 </aiml>
