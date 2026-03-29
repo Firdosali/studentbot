@@ -1,4 +1,5 @@
 <aiml>
+
   <category>
     <pattern>HELLO</pattern>
     <template>Hello! How can I help you?</template>
@@ -10,12 +11,33 @@
   </category>
 
   <category>
+    <pattern>HII</pattern>
+    <template>Hello! Nice to meet you.</template>
+  </category>
+
+  <category>
+    <pattern>HOW ARE YOU</pattern>
+    <template>I am fine! How can I help you?</template>
+  </category>
+
+  <category>
     <pattern>WHAT IS GITAM</pattern>
     <template>GITAM is a reputed university offering engineering programs.</template>
+  </category>
+
+  <category>
+    <pattern>COURSES</pattern>
+    <template>We offer B.Tech, MBA and other programs.</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS 2*2</pattern>
+    <template>2 multiplied by 2 is 4.</template>
   </category>
 
   <category>
     <pattern>BYE</pattern>
     <template>Goodbye! Have a great day.</template>
   </category>
+
 </aiml>
